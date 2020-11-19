@@ -1,6 +1,4 @@
 //Tarea 1: Clase GeoLocalizacion que nos informe de la posición del usuario
-// Se muestra en Firefox, Opera, Safari
-// Muesta 'undefined' en los campos, en Chrome y Edge
 
 class Geolocalización {
     constructor() {
